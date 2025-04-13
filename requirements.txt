@@ -2,7 +2,7 @@ streamlit
 joblib
 numpy
 altair
-scikit-learn
+scikit-learn==1.2.1
 markdown-it-py==3.0.0
 rich==14.0.0
 pygments==2.19.1

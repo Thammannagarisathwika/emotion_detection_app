@@ -1,6 +1,8 @@
 streamlit
-scikit-learn
-pandas
 joblib
-streamlit==1.24.0
-pandas>=1.5.3
+numpy
+altair
+markdown-it-py==3.0.0
+rich==14.0.0
+pygments==2.19.1
+mdurl==0.1.2

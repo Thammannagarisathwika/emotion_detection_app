@@ -2,6 +2,7 @@ streamlit
 joblib
 numpy
 altair
+scikit-learn
 markdown-it-py==3.0.0
 rich==14.0.0
 pygments==2.19.1

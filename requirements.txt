@@ -1,9 +1,12 @@
 streamlit
 joblib
+scikit-learn==1.2.1
+pandas
 numpy
 altair
-scikit-learn==1.2.1
 markdown-it-py==3.0.0
 rich==14.0.0
 pygments==2.19.1
 mdurl==0.1.2
+
+
